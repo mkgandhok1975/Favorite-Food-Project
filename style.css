@@ -1,0 +1,38 @@
+body{
+    background:linear-gradient(pink 30%, lightblue 70%);
+    font-family: 'Courier New', Courier, monospace;
+}
+#heading{
+   font-size: xx-large; 
+}
+#Panipuri{
+    height: 200px;
+    width: 200px;
+}
+#HakkaNoodles{
+    height: 200px;
+    width: 200px;
+}
+#Pizza{
+    height: 200px;
+    width: 200px;
+}
+#Sandy{
+    height: 200px;
+    width: 200px;
+}
+.list_items{float: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    color: black;
+    margin: 12px;
+}
+.Menu{
+   list-style: none;
+   margin-right: 8px;
+   float: right;
+}
+
+
+
+
